@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Isai Aram Perez Flores
 
-<!--
-**IsaiPerez02033/IsaiPerez02033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Inteligencia Artificial en el Instituto Politécnico Nacional (IPN), Escuela Superior de Cómputo (ESCOM).  
+🧠 Apasionado por el desarrollo de software, el modelado 3D, y la tecnología con propósito.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🧩 Me encanta aprender cosas nuevas, especialmente si combinan creatividad y tecnología.
+- 💻 Tengo conocimientos en lenguajes como:
+  - Python 🐍
+  - SQL 🗄️
+  - C 🔧
+  - Java (back-end) ☕
+  - HTML/CSS/JavaScript (front-end) 🌐
+- 🧠 Me interesa especialmente el desarrollo de software y su integración con inteligencia artificial.
+
+---
+
+## 🎯 Objetivos y proyectos
+
+- ✨ Hacer proyectos personales pequeños para ganar experiencia real en desarrollo de software.
+- 🤖 Explorar el uso de IA en soluciones prácticas.
+- 🧱 Me gusta trabajar con:
+  - Modelado e impresión 3D 🎨🖨️
+  - Edición de video y contenido con cámara profesional y dron DJI 🎥🚁
+
+---
+
+## 🌱 En este momento...
+
+- Estoy aprendiendo más sobre estructuras de datos, algoritmos, y diseño de software.
+- Explorando frameworks y herramientas para desarrollo web y backend.
+- Experimentando con proyectos de IA y automatización.
+
+---
+
+## 🤝 ¡Conecta conmigo!
+
+Me encantaría recibir consejos, conocer a otros desarrolladores o colaborar en proyectos.  
+📸 Instagram: [@_aramperez](https://instagram.com/_aramperez)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsaiPerez02033&theme=dark)](https://git.io/streak-stats)
+
