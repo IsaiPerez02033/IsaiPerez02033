@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Isai Aram Perez Flores
+# ¡Hola! Soy Isai Aram Perez Flores
 
 🎓 Estudiante de Ingeniería en Inteligencia Artificial en el Instituto Politécnico Nacional (IPN), Escuela Superior de Cómputo (ESCOM).  
 🧠 Apasionado por el desarrollo de software, el modelado 3D, y la tecnología con propósito.
