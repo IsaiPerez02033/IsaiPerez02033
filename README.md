@@ -90,5 +90,5 @@ Soy estudiante de Ingeniería en Inteligencia Artificial en la ESCOM del IPN. Me
 ---
 
 <div align="center">
-  <sub>Abierto a colaboraciones · <a href="https://isaiaram.dev">isaiaram.dev</a></sub>
+  <sub>Abierto a colaboraciones · <a href="https://portafolio-chi-tawny-37.vercel.app/">isaiaram.dev</a></sub>
 </div>
