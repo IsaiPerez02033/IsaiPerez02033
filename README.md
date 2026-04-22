@@ -5,7 +5,7 @@
 **AI Engineer & Backend Developer**  
 Ingeniería en Inteligencia Artificial · IPN ESCOM · Ciudad de México
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-isaiaram.dev-00f5ff?style=for-the-badge)](https://isaiaram.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-isaiaram.dev-00f5ff?style=for-the-badge)](https://portafolio-chi-tawny-37.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isai--aram--perez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isai-aram-perez-604b67298)
 [![Email](https://img.shields.io/badge/Email-isaipz0510@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaipz0510@gmail.com)
 
@@ -15,7 +15,7 @@ Ingeniería en Inteligencia Artificial · IPN ESCOM · Ciudad de México
 
 ## 🏆 Logro destacado
 
-> 🥈 **2do Lugar — Talent Land 2026** · Track IBM: Ciudades Resilientes e IA Generativa  
+> 🥈 **Finalista — Talent Land 2026** · Track IBM: Ciudades Resilientes e IA Generativa  
 > Proyecto **URBANIA** — Plataforma SaaS B2B de inteligencia urbana con IBM Watsonx y PostGIS
 
 ---
